@@ -1,0 +1,22 @@
+{
+	"name": "dreamweaver-angular-colors",
+	"title": "Color AngularJS tags in Dreamweaver CC",
+	"description": "Custom colors for each AngularJS Tag for dreamweaver CC.",
+	"homepage": "https://github.com/jsonjuri/",
+	"version": "0.0.1",
+	"keywords": ["color","tag"],
+	"author": "jsonjuri <jsonjuri@gmail.com> (https://github.com/jsonjuri/)",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.8.0"
+	},
+	"i18n": [
+		"en"
+	],
+	"package-i18n":{
+		"en":{
+			"description": "Custom colors for each AngularJS Tag for dreamweaver CC.",
+			"title": "Color AngularJS Tags"
+		}
+	}
+}
