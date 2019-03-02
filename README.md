@@ -1,7 +1,7 @@
-dreamweaver-angular-colors
+Dreamweaver CC - AngularJS Code Coloring Extension
 =======================
 
-[Adobe Dreamweaver CC IDE] dreamweaver / brackets extension which visualizes Angular code coloring.
+[Adobe Dreamweaver CC IDE] dreamweaver / brackets extension which visualizes AngularJS code coloring.
 
 This extension adds the CSS class `<span class="cm-variable"></span>` and `<span class="cm-variable-2"></span>` to edit code coloring. 
 The styles are defined in `main.less` and variables in `main.js`.
